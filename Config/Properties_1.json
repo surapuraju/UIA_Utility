@@ -1,0 +1,86 @@
+[
+    {
+        "field_name": "Username",
+        "objectId": "Username.png",
+        "action": "setText"
+    },
+    {
+        "field_name": "Password",
+        "objectId": "Password.png",
+        "action": "setText"
+    },
+    {
+        "field_name": "LogIn",
+        "objectId": "Login.png",
+        "action": "Click"
+    },
+    {
+        "field_name": "Accounts",
+        "objectId": "Accounts.png",
+        "action": "Click"
+    },
+    {
+        "field_name": "CreateAccount",
+        "objectId": "CreateAccount.png",
+        "action": "Click"
+    },
+    {
+        "field_name": "AccountName",
+        "objectId": "AccountName.png",
+        "action": "setText"
+    },
+    {
+        "field_name": "AccountWebsite",
+        "objectId": "AccountWebsite.png",
+        "action": "setText"
+    },
+    {
+        "field_name": "AccountEmail",
+        "objectId": "AccountEmail.png",
+        "action": "setText"
+    },
+    {
+        "field_name": "AccountPhoneType",
+        "objectId": "AccountPhoneType.png",
+        "action": "setText"
+    },
+    {
+        "field_name": "AccountPhone",
+        "objectId": "AccountPhone.png",
+        "action": "setText"
+    },
+    {
+        "field_name": "AccountBillingAddressStreet",
+        "objectId": "AccountBillingAddressStreet.png",
+        "action": "setText"
+    },
+    {
+        "field_name": "AccountBillingAddressCity",
+        "objectId": "AccountBillingAddressCity.png",
+        "action": "setText"
+    },
+     {
+        "field_name": "AccountBillingAddressState",
+        "objectId": "AccountBillingAddressState.png",
+        "action": "setText"
+    },
+    {
+        "field_name": "AccountBillingAddressPIN",
+        "objectId": "AccountBillingAddressPIN.png",
+        "action": "setText"
+    },
+    {
+        "field_name": "Logout",
+        "objectId": "Logout.png",
+        "action": "Click"
+    },
+    {
+        "field_name": "LogoutFinal",
+        "objectId": "LogoutFinal.png",
+        "action": "Click"
+    }
+]
+
+
+
+
